@@ -10,7 +10,7 @@ requirements = [
     "numpy>=1.13.3, <=1.15.4",
     'llvmlite==0.30.0',
     "numba==0.46.0",
-    "matplotlib==3.0.0",
+    "matplotlib>=3.0.0, <=3.4.2",
     "requests>=2.22.0",
 ]
 
