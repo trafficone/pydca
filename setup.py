@@ -7,7 +7,7 @@ with open("README.md") as fh:
 requirements = [
     "scipy>=1.3.1, <=1.6.3",
     "biopython==1.74",
-    "numpy>=1.16.1,
+    "numpy>=1.16.1",
     'llvmlite>=0.30.0',
     "numba==0.46.0",
     "matplotlib>=3.0.0, <=3.4.2",
